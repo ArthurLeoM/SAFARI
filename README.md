@@ -14,7 +14,7 @@ However, due to the copyright policies of the MIMIC-III dataset, we only present
 
 
 
-If this paper helps, please don't forget to cite this paper☺️
+If our work helps, please don't forget to cite our paper☺️
 Bibtex is provided below:
 
 ```
